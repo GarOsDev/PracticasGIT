@@ -2,7 +2,7 @@
 
 ## _Descripcion del Problema_
 
-En este problema introductorio, se nos solicita realizar dos entregas o commit del proyecto una vez hayamos hecho los cambios en el mismos correspondientes
+En este problema introductorio, se nos solicita realizar dos entregas o commit del proyecto una vez hayamos hecho los cambios correspondientes
 
 ![Captura Inicial](capturaInicialEjercicio.jpg)
 
